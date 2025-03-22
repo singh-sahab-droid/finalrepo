@@ -1,7 +1,7 @@
 // StudentGradeCalculator.java
 import java.util.Scanner;
 
-public class StudentGradeCalculator {
+public class student.java {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
